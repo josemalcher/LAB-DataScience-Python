@@ -2,24 +2,32 @@
 
 ## Projetos Práticos | Sistemas Desenvolvidos
 
-| **Status**  | **Nome**  | **Link**  | **Obs.**  |
-|---|---|---|---|
-| **_%_** |   | []()  |   |
+| **Status**  | **Nome/Respositório**  | **Obs.**  |
+|---|---|---|
+| **_%_** |  []()  |   |
 
 ------------
 
-## Lista de Projetos de Estudos/Cursos/Livros
+## Lista de Cursos/Video-aulas
 
-| **Status**  | **Nome**  | **Link**  | **Obs.**  |
+| **Status**  | **Nome/Respositório**  | **Obs.**  |
 |---|---|---|---|
-| **_20%_** | Programador Python  | [Programador Python](https://github.com/josemalcher/Schoolofnet-Programador-Python)  | School of Net - Trilha de estudos com 5 cursos.  |
+| **_20%_** | [Programador Python ](https://github.com/josemalcher/Schoolofnet-Programador-Python)  | School of Net |
+
+------------
+
+## Livros/Apostilas
+
+| **Status**  | **Nome/Respositório**  | **Obs.**  |
+|---|---|---|
+| **_%_** |  [Python Escreva seus primeiros programas](#)  | Casa do Código  |
 
 ------------
 
 ## Exemplos diversos
 
-| **Status**  | **Nome**  | **Link**  | **Obs.**  |
-|---|---|---|---|
-| **_%_** |   | []()  |   |
+| **Status**  | **Nome/Respositório**  | **Obs.**  |
+|---|---|---|
+| **_%_** |  []()  |   |
 
 ------------

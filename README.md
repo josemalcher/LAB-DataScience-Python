@@ -11,7 +11,7 @@
 ## Lista de Cursos/Video-aulas
 
 | **Status**  | **Nome/Respositório**  | **Obs.**  |
-|---|---|---|---|
+|---|---|---|
 | **_20%_** | [Programador Python ](https://github.com/josemalcher/Schoolofnet-Programador-Python)  | School of Net |
 
 ------------

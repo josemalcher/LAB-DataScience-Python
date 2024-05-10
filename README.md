@@ -1,4 +1,4 @@
-# LAB-Python
+# LAB-DataScience-Python
 
 ## Projetos Práticos | Sistemas Desenvolvidos
 
